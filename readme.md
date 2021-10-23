@@ -1,6 +1,6 @@
 # PAL web crawler
 
-抓取[塞外之舞](http://www.whistlerwmz.my-place.us/)网站上的仙剑相关的数据（目前只做了怪物信息的抓取）
+抓取[外塞之雾](http://www.whistlerwmz.my-place.us/)网站上的仙剑相关的数据（目前只做了怪物信息的抓取）
 
 ## 使用方法
 
